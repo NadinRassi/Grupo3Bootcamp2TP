@@ -1,0 +1,14 @@
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\bin\Debug\TPAjedrez.exe.config
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\bin\Debug\TPAjedrez.exe
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\bin\Debug\TPAjedrez.pdb
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\bin\Debug\BibliotecaAjedrez.dll
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\bin\Debug\BibliotecaAjedrez.pdb
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.Form1.resources
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.exe
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\TPAjedrez\obj\Debug\TPAjedrez.pdb

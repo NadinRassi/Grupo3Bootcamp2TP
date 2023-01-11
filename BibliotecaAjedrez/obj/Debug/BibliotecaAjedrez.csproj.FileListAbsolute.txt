@@ -1,0 +1,6 @@
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\BibliotecaAjedrez\bin\Debug\BibliotecaAjedrez.dll
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\BibliotecaAjedrez\bin\Debug\BibliotecaAjedrez.pdb
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\BibliotecaAjedrez\obj\Debug\BibliotecaAjedrez.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\BibliotecaAjedrez\obj\Debug\BibliotecaAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\BibliotecaAjedrez\obj\Debug\BibliotecaAjedrez.dll
+C:\Users\Alternativa\Desktop\Trabajo Grupal 11-1\Practica01Ajedrez\BibliotecaAjedrez\obj\Debug\BibliotecaAjedrez.pdb
